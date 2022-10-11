@@ -4,6 +4,10 @@
 
 ### Hi there 👋 I'm junior developer since 2022.07.14
 
+### 📧 email
+
+janghh97@gmail.com
+
 ![Hyokiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyokiz&show_icons=true&theme=radical)
 
 ### 🏅 Baekjoon solved rank
