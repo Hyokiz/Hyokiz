@@ -38,3 +38,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wers321)](https://solved.ac/wers321/)
+
