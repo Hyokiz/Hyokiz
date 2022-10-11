@@ -39,5 +39,10 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-#000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wers321)](https://solved.ac/wers321/)
 
