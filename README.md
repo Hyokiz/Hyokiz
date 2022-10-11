@@ -6,7 +6,7 @@
 
 ![Hyokiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyokiz&show_icons=true&theme=radical)
 
-### 🏅Baekjoon solved rank
+### 🏅 Baekjoon solved rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wers321)](https://solved.ac/wers321/)
 <!-- <div align=center><h1>📚 STACKS</h1></div> -->
@@ -27,7 +27,7 @@
   <br>
 </div>
 
-### Tools
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
