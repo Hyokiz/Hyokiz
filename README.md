@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyokiz&show_icons=true&theme=radical)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<!-- <div align=center><h1>📚 STACKS</h1></div> -->
+<h1>📚 STACKS</h1>
 
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
