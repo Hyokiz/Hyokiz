@@ -6,7 +6,7 @@
 
 ### 📧 email
 
-janghh97@gmail.com
+### 👉 janghh97@gmail.com
 
 ![Hyokiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyokiz&show_icons=true&theme=radical)
 
