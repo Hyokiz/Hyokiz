@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyokiz&show_icons=true&theme=radical)
+
+![PYTHON](https://img.shields.io/badge/PYTHON-#3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=#3776AB)
